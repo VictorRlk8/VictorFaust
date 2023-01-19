@@ -17,4 +17,4 @@
   <a href="https://www.linkedin.com/in/victor-faustino-b4a584246/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![snake gif](https://github.com/VictorRlk8/VictorRlk8/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/VictorRlk8/VictorFaust/blob/output/github-contribution-grid-snake.svg)
